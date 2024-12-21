@@ -5,6 +5,3 @@
 [submodule "miniUI"]
 	path = miniUI
 	url = https://github.com/cran/miniUI
-[submodule "shinychat"]
-	path = shinychat
-	url = https://github.com/jcheng5/shinychat
